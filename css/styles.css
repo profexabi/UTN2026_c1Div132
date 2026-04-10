@@ -1,0 +1,25 @@
+/*  .nombreClase
+        #nombreId
+*/
+.ciudad {
+    font-family: monospace;
+    text-align: center;
+}
+
+.verde {
+    /* Color de la fuente */
+    color: green;
+}
+
+#london {
+    /* Color de fondo */
+    background-color:#FFF4A3;
+}
+
+#oslo {
+    background-color:#FFC0C7;
+}
+
+#rome {
+    background-color:#D9EEE1;
+}

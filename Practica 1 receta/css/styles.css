@@ -1,0 +1,31 @@
+.logo {
+    width: 50px;
+}
+
+/* Encabezado */
+header {
+    border: 2px solid green;
+}
+
+.encabezado-sup, .encabezado-inf ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.encabezado-inf ul {
+    list-style-type: none;
+}
+
+/* Contenido principal */
+main {
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Pie de pagina */
+footer {
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-around;
+}
